@@ -9,7 +9,7 @@ The broad idea here is to get your data all nicely aligned to a grid of squares 
 This project was a lot more than expected, trying to add cubes to buildings at a small scale is doable, but this was slightly (read, a lot) more effort than initially thought. There were two problems, the first is trying to improve a lot on the exisitng method I created by adding roads and water, which is actaully a big improvement for Amsterdam. The second is using a mahusive dataset. It consists of around 800 tiles, which is a lot. Due to it being a square grid, it increases *2 instead of +2 for each tile in x or y.
 
 However for Amsterdam alone, I have done most of the hard work, here are the 840 stl files of Amsterdam:
-
+[Onedrive Download of .zip file](https://1drv.ms/u/s!AufxGaH9C4-Vgcx30R7lSQ14FjmNdA?e=1tjdWh)
 This also contains the map from which to select your preferred tiles, and some simple info on the tiles.
 
 
