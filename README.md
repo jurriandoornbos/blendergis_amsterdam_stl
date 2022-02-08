@@ -17,7 +17,7 @@ This also contains the map from which to select your preferred tiles, and some s
 There is probably better ways to go about this, but I did not research it, and this is probably good enough for some basic prints.
 
 ## Pre-requisites
-- Install Blender + BlenderGIS (Not necessary to get GDAL installed, we'll be working with open-source data from OpenStreetMap, and no conversions are necessary)
+- Install Blender + BlenderGIS (Preferably with GDAL)
 
 # Netherlands
 There is a million ways to go about this ofcourse, I present here a few steps to get (for NL): 
@@ -107,7 +107,5 @@ I also added some connectors to make the individual tiles combineable, this is b
 This is it, project done. Time to export all the tiles as nice stls, but we first have to join them to the the grid, this is all done in join_export.py
 
     join_export.py
-
-
 
 Good luck!
